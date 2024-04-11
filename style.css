@@ -66,10 +66,13 @@ h1, h2, p {
 	align-items: center;
 }
 
-.foto img{
+.foto {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.foto img {
 	max-width: 100%;
 }
 
